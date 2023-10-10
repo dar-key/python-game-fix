@@ -1,6 +1,7 @@
 # Игра Shmup - 4 часть
 # Графика
 import pygame
+import math
 import random 
 from os import path
 
